@@ -1,5 +1,5 @@
 print("hello user")
-num=int(input("Enter the Number:"))
+num=int(input("Enter number"))
 if(num%2==0):
         print("Number is even")
 else:

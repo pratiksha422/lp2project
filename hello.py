@@ -1,6 +1,6 @@
-print("hello")
-num=int(input("enter the number"))
+print("hello user")
+num=int(input("Enter the Number:"))
 if(num%2==0):
-        print("number is even")
+        print("Number is even")
 else:
-        print("number is even")
+        print("Number is odd")
